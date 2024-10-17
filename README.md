@@ -52,3 +52,17 @@ npm run dev
 "profilePic": "string",
 }
 ```
+
+### For congiguration
+
+1.  Create a directory file in the app directory of the project.
+2.  Create a file named `config.js` in the app directory.
+3.  Add the following code to the `config.js` file and modify as per your requirements:
+
+```bash
+export const JWT_SECRET = "your_secret_key";
+export const PORT = 3000;
+export const MONGO_URI = "YOUR_MONGODB_URI";
+export const TOKEN_EXPIRATION = "1d";
+
+```
