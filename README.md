@@ -24,7 +24,7 @@ npm run dev
 
 ```
 
-**Open your web browser and visit http://localhost:3000 to view the project.**
+**Open postman and visit http://localhost:3000 to view the project.**
 
 ## API Endpoints
 
